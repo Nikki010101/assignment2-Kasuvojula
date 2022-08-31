@@ -11,3 +11,10 @@ The airport that is closest to the museum is Rajiv Gandhi International Airport.
 3. Walk to LB Nagar Ring Road
 4. Ride to Chaderghat in 299H Bus
 5. From there take a ride to Salar Jung Museum
+* Bhongir Fort
+* Srishailam Temple
+* Srirangapur Temple
+* Surendrapuri
+* Yadagirigutta
+
+
