@@ -16,6 +16,5 @@ The airport that is closest to the museum is Rajiv Gandhi International Airport.
 * Srishailam Temple
 * Srirangapur Temple
 * Surendrapuri
-* Yadagirigutta
-
+* Yadagiriguta
 
