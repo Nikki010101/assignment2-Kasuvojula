@@ -20,4 +20,17 @@ The airport that is closest to the museum is Rajiv Gandhi International Airport.
 
 Hey, if you want to know more about me click here:   [About me](https://github.com/Nikki010101/assignment2-Kasuvojula/blob/ae12283addeea3b709339f26e50b5967570211a9/AboutMe.md)
 
-
+Use a horizontal line and an appropriate heading for a new section.   
+2) In this section you are going to create a table with at least 4 cities that you would 
+recommend someone visit. Include a short paragraph that introduces the table. 
+3) Create a table with three columns. The first column should be the name of a city. 
+The second column will be a important location to visit in the city. The third column 
+is the amount of time to spend visiting the important location.  Remember to use 
+headers.  
+4) Commit and Push. 
+|### Name of the City|### Location to visit|### Time to spend (days)|
+|:---------------|:---------------:|------------:|
+|Paris|Eiffel Tower|1|
+|Strasbourg|Gothic Cathedral|2|
+|Marseille|The Old Port|2|
+|Nice|French Riviera|1|
