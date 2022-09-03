@@ -38,7 +38,7 @@ Hey, if you want to know more about me click here:   [About me](https://github.c
 ---
 ### Code
 
-`<svg width="100%" height="100%">
+` <svg width="100%" height="100%">
   
   <!-- Create mask that we'll use to define a slight gradient -->
   <mask maskUnits="userSpaceOnUse" id="fade">
@@ -61,4 +61,4 @@ Hey, if you want to know more about me click here:   [About me](https://github.c
   <!-- The canvas with our applied pattern -->
   <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-circles)"></rect>
   
-</svg>`
+</svg> `
