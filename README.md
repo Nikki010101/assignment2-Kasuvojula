@@ -28,7 +28,7 @@ The second column will be a important location to visit in the city. The third c
 is the amount of time to spend visiting the important location.  Remember to use 
 headers.  
 4) Commit and Push. 
-|### Name of the City|### Location to visit|### Time to spend (days)|
+|Name of the City|Location to visit|Time to spend (days)|
 |:---------------|:---------------:|------------:|
 |Paris|Eiffel Tower|1|
 |Strasbourg|Gothic Cathedral|2|
