@@ -2,9 +2,10 @@
 # Nikhitha Kasuvojula
 ### Salar Jung Museum
 
-***Salar Jung Museum*** takes you on a **nostalgic tour of the past**, with its collection of *royal trappings* such as sculpture, paintings, textiles, manuscripts, ceramics, carpets, **clocks**, furniture et al from various parts of the world
+***Salar Jung Museum*** takes you on a **nostalgic tour of the past**, with its collection of *royal trappings* such as sculpture, paintings, textiles, manuscripts, ceramics, carpets, **clocks**, furniture et al from various parts of the world.
 
 ---
+
 #### Directions to Airport
 The airport that is closest to the museum is Rajiv Gandhi International Airport.
 
@@ -19,7 +20,7 @@ The airport that is closest to the museum is Rajiv Gandhi International Airport.
 * Surendrapuri
 * Yadagiriguta
 
-Hey, if you want to know more about me click here:  **[page](AboutMe.md)** [About me](https://github.com/Nikki010101/assignment2-Kasuvojula/blob/ae12283addeea3b709339f26e50b5967570211a9/AboutMe.md)
+Hey, if you want to know more about me click here:  **[About me](AboutMe.md)** [About me](https://github.com/Nikki010101/assignment2-Kasuvojula/blob/ae12283addeea3b709339f26e50b5967570211a9/AboutMe.md)
 
 |Name of the City|Location to visit|Time to spend (days)|
 |:---------------|:---------------:|------------:|
