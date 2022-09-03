@@ -19,7 +19,7 @@ The airport that is closest to the museum is Rajiv Gandhi International Airport.
 * Surendrapuri
 * Yadagiriguta
 
-Hey, if you want to know more about me click here:   [About me](https://github.com/Nikki010101/assignment2-Kasuvojula/blob/ae12283addeea3b709339f26e50b5967570211a9/AboutMe.md)
+Hey, if you want to know more about me click here:  **[page](AboutMe.md)** [About me](https://github.com/Nikki010101/assignment2-Kasuvojula/blob/ae12283addeea3b709339f26e50b5967570211a9/AboutMe.md)
 
 |Name of the City|Location to visit|Time to spend (days)|
 |:---------------|:---------------:|------------:|
