@@ -65,4 +65,4 @@ Hey, if you want to know more about me click here:  **[About me](AboutMe.md)** [
   
 </svg> 
 ```
-Lets go to the code <https://css-tricks.com/snippets/svg/svg-patterns/#aa-circle-pattern>
+Lets go to the code : <https://css-tricks.com/snippets/svg/svg-patterns/#aa-circle-pattern>
