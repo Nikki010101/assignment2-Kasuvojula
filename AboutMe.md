@@ -4,6 +4,6 @@ was taught to be curious and to appreciate the finer nuances of subjects. This l
 Taking up Math, Physics and Chemistry laid the foundation for my degree in engineering. With a good score of
 97.3%, I went to the Gokaraju Rangaraju Institute of Engineering and Technology to pursue Civil Engineering. My
 undergraduate program has given me broad and across-the-board exposure to core subjects like Engineering
-Drawing, Engineering Mechanics, Building Materials and Construction Planning.And I am good at arts and craftsy, I really enjoy making something creative.
+Drawing, Engineering Mechanics, Building Materials and Construction Planning.And I am good at arts and crafts, I really enjoy making something creative.
 
 ![image](https://github.com/Nikki010101/assignment2-Kasuvojula/blob/main/Screenshot%202022-08-31%20184006.png)
