@@ -39,6 +39,7 @@ Hey, if you want to know more about me click here: [About me](https://github.com
 ---
 
 > How to change the color of an svg element?
+
 Link for stackflow: <https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element>
 
 ### Code
