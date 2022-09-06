@@ -37,6 +37,10 @@ Hey, if you want to know more about me click here: [About me](https://github.com
 > The greatest glory in living lies not in never falling, but in rising every time we fall. -*Nelson Mandela*
 
 ---
+
+> How to change the color of an svg element?
+Link for stackflow: <https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element>
+
 ### Code
 
 ```
